@@ -14,6 +14,8 @@ elif casio == '%':
     print(a%b)
 elif casio == '//':
     print(a//b)
+else:
+    print('ЛОХ')
     #
     # 80/10 = 8(0)
     # 76/10 = 7(6) %=6 //=7
